@@ -1,0 +1,15 @@
+.form-wrapper {
+  margin: 15px;
+}
+
+.input {
+  outline: none;
+  font-size: 16px;
+  padding-left: 5px;
+  border: 1px solid gray;
+}
+
+.button {
+  margin-left: 10px;
+  font-size: 16px;
+}
